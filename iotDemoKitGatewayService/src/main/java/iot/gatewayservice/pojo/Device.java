@@ -1,10 +1,8 @@
-package io.springbootstarter.REST.Device;
+package iot.gatewayservice.pojo;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
-
-import io.springbootstarter.REST.Tenant.Tenant;
 
 @Entity
 public class Device {

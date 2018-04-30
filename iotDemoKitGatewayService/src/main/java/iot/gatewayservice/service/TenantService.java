@@ -1,4 +1,4 @@
-package io.springbootstarter.REST.Tenant;
+package iot.gatewayservice.service;
 
 import java.util.ArrayList;
 
@@ -6,6 +6,9 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import iot.gatewayservice.pojo.Tenant;
+import iot.gatewayservice.repo.TenantRepo;
 
 @Service
 public class TenantService {
@@ -24,6 +27,7 @@ public class TenantService {
 	public Tenant getTenant(String ID) {
 
 		return tenantrepo.findOne(ID);
+		
 	}
 
 	public void addTenant(Tenant tenant) {

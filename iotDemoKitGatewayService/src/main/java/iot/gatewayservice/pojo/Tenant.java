@@ -1,4 +1,4 @@
-package io.springbootstarter.REST.Tenant;
+package iot.gatewayservice.pojo;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

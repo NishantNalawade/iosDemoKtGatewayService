@@ -1,4 +1,4 @@
-package io.springbootstarter.REST.Device;
+package iot.gatewayservice.service;
 
 import java.util.ArrayList;
 
@@ -6,6 +6,9 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import iot.gatewayservice.pojo.Device;
+import iot.gatewayservice.repo.DeviceRepo;
 
 @Service
 public class DeviceService {
