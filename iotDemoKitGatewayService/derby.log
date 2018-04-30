@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Apr 28 15:16:10 IST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-0ba5-45c4-0000096b8340 
-on database directory memory:C:\Users\I341573\eclipse-workspace\springboottut.api.with.jpa\testdb with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Mon Apr 30 11:52:41 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-1537-b1af-0000091f3248 
+on database directory memory:C:\Users\I341573\git\iotDemoKitGatewayService\iotDemoKitGatewayService\testdb with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
 Loaded from file:/C:/Users/I341573/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_161-b12
-user.dir=C:\Users\I341573\eclipse-workspace\springboottut.api.with.jpa
+user.dir=C:\Users\I341573\git\iotDemoKitGatewayService\iotDemoKitGatewayService
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0

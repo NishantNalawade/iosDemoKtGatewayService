@@ -27,6 +27,7 @@ public class DeviceService {
 	public Device getdevice(String ID) {
 
 		return devicerepo.findOne(ID);
+		
 	}
 
 	public void addDevice(Device device) {
